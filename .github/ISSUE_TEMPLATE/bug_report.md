@@ -26,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
  - MC-Version: [e.g. 1.8.9]
-- Client: [e.g. LabyMod]
+ - Client: [e.g. LabyMod]
 
 **Additional context**
 Add any other context about the problem here.
