@@ -1,23 +1,20 @@
 ---
-name: Feature request
+name: Feature Request
 about: Suggest an idea
-title: "[FEATURE REQUEST] "
+title: "Feature Request Title"
 labels: enhancement
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Is your feature request related to a problem? Please describe it.**
+A clear and concise description of what the problem is. For example, "I'm always frustrated when [...]" or "this would improve [...]".
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Description of the Feature**
+A clear and concise description of the intended feature.
 
-**Server/Discord/Website/Forums**
-What server should this feature be added to?
+**Platform**
+What server should this feature be added to? Server, Discord, Forums.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Additional Information**
+Add any other information or screenshots about the feature request here.
