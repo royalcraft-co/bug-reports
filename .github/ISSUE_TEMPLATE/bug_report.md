@@ -1,32 +1,31 @@
 ---
-name: Bug report
+name: Bug Report
 about: Create a report
-title: "[BUG]"
+title: "Bug Report Title"
 labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
+**Description of the Bug**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**Steps to Reproduce**
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+2. Click on '...'
+3. Scroll down to '...'
 4. See error
 
-**Expected behavior**
+**Expected Behavior**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. MacOS, Windows, Linux]
- - MC-Version: [e.g. 1.8.9]
- - Client: [e.g. LabyMod]
+**Client-Side Information**
+OS: [e.g. MacOS, Windows, Linux]
+MC Version: [e.g. 1.8.9]
+Client: [e.g. LabyMod]
 
-**Additional context**
-Add any other context about the problem here.
+**Additional Information**
+Add any other information about the problem here.
